@@ -30,6 +30,7 @@ public class Q2 {
                 l2.add(x);
             }
         }
+        ans.add(l2);
         return ans;
     }
 
